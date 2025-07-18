@@ -6,6 +6,7 @@
 - [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)
 - [Examples of Use](#examples-of-use)
 - [Project Status](#project-status)
+- [Release History](#release-history)
 - [Sources](#sources)
 - [Other Information](#other-information)
 
@@ -70,7 +71,12 @@ Future Enhancements:
 - Add search/filter features
 - Validate form fields with stricter patterns
 
+---
 
+## Release History
+
+- **v1.0.0** – Initial Release (✅ Save, Update, Reset working with JsonPowerDB)
+- **v1.1.0 (Planned)** – Add search and export features
 
 ---
 
@@ -84,3 +90,4 @@ Future Enhancements:
 ## Other Information
 
 > This project is made for educational purposes as part of a **Micro Project Assignment**.
+
